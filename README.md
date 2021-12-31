@@ -2,7 +2,7 @@
 
 > **Pro bono publico** (English: "for the public good"; usually shortened to _**pro bono**_) is a Latin phrase for professional work undertaken voluntarily and without payment.
 
-**Tl;Dr:** I choose projects based on specific criteria, and perform pro bono security spot checks on them. I am NOT doing free security spot checks for every project who reaches out and asks.
+**Tl;Dr:** I choose projects that I find interesting or that are important to the Ethereum ecosystem, and perform pro bono security spot checks on them. I am NOT doing free security spot checks for every project who reaches out and asks.
 
 ## The problem
 Smart contract security professionals have been in extremely high demand for years. Projects that are not well-funded have a difficult time getting experienced security professionals' eyes on their code. Even well-funded projects often have to wait several months before they can have their code reviewed because top security firms are usually booked out for months. These projects often launch before they have any professional security review at all, sometimes with [dire consequences for their user's and investors](https://rekt.news/).
