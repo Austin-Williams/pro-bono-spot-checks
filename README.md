@@ -59,6 +59,6 @@ I expect nothing in return for the work done via this experiment, but I will hap
 
 **ZEC (preferred):** zs1pe7jd0vjq5n9kjdvkdau7lxfsna26ew9h0u40su3vjqeq29242d7s3h0d04aqqe42z99jc5qgcq
 
-**ETH:** [0x51E0ECBAF73DD28394eFEc5Fc8e7E7071f7c8dBA](https://etherscan.io/address/0x51E0ECBAF73DD28394eFEc5Fc8e7E7071f7c8dBA)
+**Private ETH address:** You can send funds to me via [Umbra](https://app.umbra.cash/send?to=onewayfunction.eth&token=ETH) using my ENS identifier: `onewayfunction.eth`.
 
-**Private ETH address:** Feel free to reach out and ask for a private ETH address if you'd rather send ETH-based funds to me privately.
+**Public ETH address:** [0x51E0ECBAF73DD28394eFEc5Fc8e7E7071f7c8dBA](https://etherscan.io/address/0x51E0ECBAF73DD28394eFEc5Fc8e7E7071f7c8dBA)
