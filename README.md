@@ -4,6 +4,8 @@
 
 **Tl;Dr:** I choose projects that I find interesting or that are important to the Ethereum ecosystem, and perform pro bono security spot checks on them. I am NOT doing free security spot checks for every project who reaches out and asks.
 
+UPDATE: Over time I have expanded the scope of this. I also spend time looking at Zcash-related projects, non-cryptocurrency projects that focus on privacy or censorship-resistance, as well as any projects that I find interesting/important for human freedom. Due to chilling effects, I currently do nearly all of this work anonymously or pseudonomously (with short-lived pseudonyms). That has its challenges, for sure, but the peace of mind is worth it IMO.
+
 ## The problem
 Smart contract security professionals have been in extremely high demand for years. Projects that are not well-funded have a difficult time getting experienced security professionals' eyes on their code. Even well-funded projects often have to wait several months before they can have their code reviewed because top security firms are usually booked out for months. These projects often launch before they have any professional security review at all, sometimes with [dire consequences for their user's and investors](https://rekt.news/).
 
@@ -12,15 +14,13 @@ Additionally, incentives in the security industry are not always aligned with wh
 The incentive problems don't stop there. Consider scam projects whose sole purpose is to collect user funds and then rug everybody. These types of projects aren't going to pay a professional security firm to audit them. So the users don't have anyone looking out for them to alert them of security issues. When they get rugged, it decreases user trust in Ethereum and increases skepticism by no-coiners and regulatory bodies.
 
 ## An experiment
-In an attempt to address some of these problems, I'm starting a short-term experiment where I go out and find projects that interest me, or that I consider to be "important to the Ethereum ecosystem" in some way, and then do pro bono security spot checks of them. I will convey any findings or recommendations privately to the project devs and/or publicly to the users of the project, whichever I feel is more appropriate.
+In an attempt to address some of these problems, I'm doing an experiment where I go out and find projects that interest me, or that I consider to be "important to the Ethereum ecosystem" in some way, and then do pro bono security spot checks of them. I will convey any findings or recommendations privately to the project devs and/or publicly to the users of the project, whichever I feel is more appropriate.
 
 Since there is nobody to pull the purse strings, I can direct my attention to whatever projects I think are important, not just the ones that have the money to buy my attention. And I can also define the scope to be "whatever I think is important for the users", and not leave that choice up to someone else with differing incentives or budget limitations.
 
 Users, organizations, and DAOs that care about the health of the Ethereum ecosystem, as well as anyone who benefits from my spot checks after the fact, are welcome to send donations as a "thank you" for my work.
 
 In short, the experiment is to see whether entirely self-directed, _pro bono_ security work can add any novel value to the Ethereum ecosystem, and/or to my daily work as a security researcher.
-
-**Please note:** The opportunity cost of this experiment is very high for me, so I can't do these _pro bono_ spot checks full time. I'm just doing them part-time, as funding allows.
 
 ## What is a security spot check?
 A security spot check is an extremely time-limited engagement during which a project is reviewed for potential security issues and/or potential design improvements. The results of spot checks can vary wildly depending on who is doing them, how long they last, and what the researcher decides to prioritize.
@@ -60,3 +60,5 @@ I expect nothing in return for the work done via this experiment, but I will hap
 **ZEC (preferred):** zs1pe7jd0vjq5n9kjdvkdau7lxfsna26ew9h0u40su3vjqeq29242d7s3h0d04aqqe42z99jc5qgcq
 
 **Private ETH address:** You can contact me privately to request an ETH address.
+
+UPDATE: I want to sincerely thank those of you who have donated to this. I was not (and still do not) expect anything in return for this work. I do it because I find it fullfilling and fun. Your donations have made it possible for me to do this _much_ longer than I originally anticipated. If you want to support more work of this nature, I strongly encourage you to donate to [The Red Guild](https://blog.theredguild.org/). They do a very similar kind of work, they have world-class security auditors, they publish educational materials, and they operate as a sort of "public good" rather than "auditors for hire". They are a talented and aligned group who deserves any support you can send their way.
