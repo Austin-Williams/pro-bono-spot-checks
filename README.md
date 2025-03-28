@@ -59,6 +59,8 @@ I expect nothing in return for the work done via this experiment, but I will hap
 
 **ZEC (preferred):** zs1pe7jd0vjq5n9kjdvkdau7lxfsna26ew9h0u40su3vjqeq29242d7s3h0d04aqqe42z99jc5qgcq
 
+**Railgun (Ethereum Mainnet):** 0zk1qypt7s8uqf2j3wyhxyvf9cq42s6jas6d92mejchxhswm5zd7zpkmerv7j6fe3z53llhxunzk75wfsl27vuctn0g5td7k5kkh0t4lmdxgtx63ue79j9muzg4vd9y
+
 **Private ETH address:** You can contact me privately to request an ETH address.
 
 UPDATE: I want to sincerely thank those of you who have donated to this. I was not (and still do not) expect anything in return for this work. I do it because I find it fullfilling and fun. Your donations have made it possible for me to do this _much_ longer than I originally anticipated. If you want to support more work of this nature, I strongly encourage you to donate to [The Red Guild](https://blog.theredguild.org/). They do a very similar kind of work, they have world-class security auditors, they publish educational materials, and they operate as a sort of "public good" rather than "auditors for hire". They are a talented and aligned group who deserves any support you can send their way.
